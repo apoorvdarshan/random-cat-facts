@@ -32,7 +32,7 @@ A fun and lightweight web app that fetches **real-time cat facts** from the [cat
 
 ## 📸 Preview
 
-![Random Cat Facts](assets/cat-facts-preview.png)
+![image](https://github.com/user-attachments/assets/b17334b6-b3ed-4833-8f57-5c05b9d52a3f)
 
 ---
 
