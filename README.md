@@ -4,11 +4,11 @@ A fun and lightweight web app that fetches **real-time cat facts** from the [cat
 
 ## 🔗 Live Preview
 
-🌐 [https://apoorvdarshan.github.io/random-cat-facts](https://apoorvdarshan.github.io/random-cat-facts)
+🌐 [https://random-cat-facts.aopv.dev](https://random-cat-facts.aopv.dev)
 
 ## 💻 Source Code
 
-📂 [https://github.com/apoorvdarshan/random-cat-facts](https://github.com/apoorvdarshan/random-cat-facts)
+📂 [https://github.com/aopv/random-cat-facts](https://github.com/aopv/random-cat-facts)
 
 ---
 
@@ -44,5 +44,5 @@ If this project made you smile (or go “awww”), drop a ⭐ on the repo!
 
 ## 💬 Connect
 
-Made by [Apoorv Darshan](https://github.com/apoorvdarshan)  
+Made by [Apoorv Darshan](https://github.com/aopv)  
 Let’s connect via the footer social icons!
