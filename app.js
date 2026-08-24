@@ -20,7 +20,7 @@ shareBtn.addEventListener("click", () => {
   clickSound.play();
 
   const fact = document.querySelector("#result").innerText;
-  const shareText = `${fact}\n\n🐱 For more facts: https://random-cat-facts.aopv.dev`;
+  const shareText = `${fact}\n\n🐱 For more facts: https://random-cat-facts.apoorvdarshan.com`;
 
   if (navigator.share) {
     navigator
